@@ -16,9 +16,23 @@ header {
   font-family: "Smooch Sans", sans-serif;
 }
 
+
 .anime-img {
   width: 40%;
   height: auto;
+  position: relative;
+  top: 20px;
+  left: 50px;
+  border: #ffff00 solid 20px;
+}
+
+.say-hi{
+  font-size: 40px;
+  font-weight: 500;
+  position: relative;
+  top: 20px;
+  left: 20px;
+
 }
 
 h2,
@@ -53,9 +67,11 @@ span {
   display: flex;
   text-align: justify;
   background-color: #1d1d21;
+  justify-content: center;
+  align-items: center;
 }
 
-.para3{
+.para3 {
   color: yellow;
 }
 
@@ -63,9 +79,13 @@ span {
   width: 100%;
   height: -25px;
   margin-top: 25px;
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+
 }
 
-.color-box{
+.color-box {
   position: relative;
   top: -250px;
   background: yellow;
