@@ -2,7 +2,7 @@
 
 ### Live link [here](https://gsg-cf05.github.io/api-project-Shams/)
 
-- It s a simple anime site where you can browse quotes from Naruto.
+- It s a simple anime web page where you can browse quotes from Naruto.
 
 ### How do I get the project on my local machine?
 
